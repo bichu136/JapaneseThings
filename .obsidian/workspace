@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "e4399493d56b8af3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f34a8d0a171847c2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "shujoshi.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0bac8d0c042c295b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e989b047d29cacc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12f0ca7c7f88f17a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "15feacec9a4fd389",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "983a6380358f551f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d52d179c76194bb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a06fd1c81a7d730",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "shujoshi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f34a8d0a171847c2",
+  "lastOpenFiles": [
+    "shujoshi.md",
+    "setsuzokujoshi.md",
+    "kantoujoshi.md",
+    "kakujoshi.md",
+    "kakarijoshi.md",
+    "juntaijoshi.md",
+    "heiritsujoshi.md",
+    "fukujoshi.md",
+    "Particles.md",
+    "Untitled.md"
+  ]
+}
