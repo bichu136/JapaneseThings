@@ -1,29 +1,32 @@
 {
   "main": {
-    "id": "e4399493d56b8af3",
+    "id": "d920f3657a9b7f36",
     "type": "split",
     "children": [
       {
-        "id": "08adec7bd08d02cd",
+        "id": "a53e42a36555eaad",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0bac8d0c042c295b",
+    "id": "e59fd7d9a98f1ef7",
     "type": "split",
     "children": [
       {
-        "id": "e989b047d29cacc6",
+        "id": "7ff6097b311a75dc",
         "type": "tabs",
         "children": [
           {
-            "id": "12f0ca7c7f88f17a",
+            "id": "6dfec85a46eb72c8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +34,7 @@
             }
           },
           {
-            "id": "15feacec9a4fd389",
+            "id": "8ee5eacff9ce2f2f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -49,23 +52,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "983a6380358f551f",
+    "id": "04a1f0e81b158360",
     "type": "split",
     "children": [
       {
-        "id": "d52d179c76194bb8",
+        "id": "00bd8dbfddbbddaf",
         "type": "tabs",
         "children": [
           {
-            "id": "3a06fd1c81a7d730",
+            "id": "3d5b419ab037ef8c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,17 +86,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "08adec7bd08d02cd",
+  "active": "a53e42a36555eaad",
   "lastOpenFiles": [
-    "particle/setsuzokujoshi.md",
-    "particle/keijoshi.md",
-    "particle/heiretsujoshi.md",
-    "particle/fukujoshi.md",
-    "words/_けれど_.md",
-    "words/_ぐらい_.md",
-    "words/_きり_.md",
-    "words/_くらい_.md",
-    "_い_.md",
-    "_と_.md"
+    "Untitled.md"
   ]
 }
